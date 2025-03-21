@@ -17,5 +17,6 @@ public class Main2 {
        for(int num:newArr){
             System.out.print(num + " ");
        }
-    }
+    sc.close();}
+    
 }

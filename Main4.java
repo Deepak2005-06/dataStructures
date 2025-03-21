@@ -12,5 +12,7 @@ public class Main4 {
         newArr[i-1]=arr[i];
         }
         System.out.print(Arrays.toString(newArr));
+        sc.close();
+
     }
 }

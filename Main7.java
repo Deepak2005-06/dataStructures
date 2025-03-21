@@ -21,5 +21,7 @@ public class Main7
 		    right--;
 		}
 		System.out.println(Arrays.toString(arr));
+        sc.close();
+        
 	}
 }

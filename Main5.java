@@ -12,5 +12,6 @@ public class Main5 {
         newArr[i]=arr[i];
         }
         System.out.print(Arrays.toString(newArr));
+        sc.close();
     }
 }

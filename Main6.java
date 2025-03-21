@@ -20,5 +20,6 @@ public class Main6 {
             }
         }
         System.out.println(Arrays.toString(newArr));
+        sc.close();
     }
 }
